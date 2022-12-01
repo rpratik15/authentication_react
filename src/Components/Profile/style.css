@@ -1,0 +1,15 @@
+.container.info
+{
+    color: white;
+    background-color: black;
+    width:50%;
+    height: 100vh;
+    margin: auto;
+    padding: 20px;
+ 
+   
+}
+.user-info
+{
+    text-align: left;
+}

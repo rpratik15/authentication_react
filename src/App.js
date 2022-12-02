@@ -7,9 +7,10 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
 function App() {
   return (
+ 
     <BrowserRouter>
     <NavbarComponent/>
-    <div className="App">
+    {/* <div className="App"> */}
       
     <Switch>
     <Route exact path="/">
@@ -19,7 +20,7 @@ function App() {
           <Profile/>
         </Route>
     </Switch>
-    </div>
+    {/* </div> */}
     </BrowserRouter>
     
       

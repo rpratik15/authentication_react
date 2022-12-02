@@ -8,3 +8,7 @@
     margin: auto;
     padding: 20px;
 }
+
+.valid-feedback, .invalid-feedback {
+	display: block;
+}

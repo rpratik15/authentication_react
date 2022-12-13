@@ -162,7 +162,7 @@ const Signup = () => {
           // </Form.Control.Feedback>
         ) : (<p style={{ color: 'green' }}>
 
-          Successfully!! Signed up!
+          Successfully!! Signed up!!
         </p>)
           //   <Form.Control.Feedback type="valid" style={{color:'green'}}>
           //   Successfully Signup!!

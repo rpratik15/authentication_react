@@ -21,7 +21,7 @@ function Profile() {
   useEffect(() => {
 
     if (userInfo.token === null)
-      navigate.push('/')
+      navigate.push('/Signup')
   }, [userInfo])
 
   const deleteData = () => {

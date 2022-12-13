@@ -10,7 +10,7 @@ function NavbarComponent() {
     <Container> 
       <Navbar.Brand as={NavLink} to="/">Module7</Navbar.Brand>
       <Nav className="justify-content-end">
-        <Nav.Link as={NavLink} to="/">Signup</Nav.Link>
+        <Nav.Link as={NavLink} to="/Signup">Signup</Nav.Link>
         <Nav.Link as={NavLink} to="/Profile">Profile</Nav.Link>
        
       </Nav>

@@ -13,7 +13,7 @@ function App() {
     {/* <div className="App"> */}
       
     <Switch>
-    <Route exact path="/">
+    <Route exact path="/Signup">
     <Signup/>
 				</Route>
         <Route path='/Profile'>
